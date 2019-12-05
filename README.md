@@ -1,1 +1,1 @@
-# Encryption-and-Decryption-using-playfair-method
+# Encryption and Decryption using playfair method
